@@ -62,7 +62,7 @@
     "babel-loader": "8.2.3",
     "@babel/preset-env": "^7.16.11",
     "@babel/preset-react": "7.16.7",
-    "@babel/preset-stage-2": "~6.24.1",
+    "babel-preset-stage-2": "~6.24.1",
     "@babel/register": "7.17.7",
     "coveralls": "~3.0.3",
     "cross-env": "~6.0.3",
